@@ -1,2 +1,0 @@
-[2024-04-13 05:46:29.552298 pid:54319 tid:7f1cbe76c740 ctx:0 INFO: cleanup@mem_pool.h:237] >> Successfully do cleanup, this->name:BufPool.
-[2024-04-13 06:05:48.415474 pid:63058 tid:7f59136df740 ctx:0 INFO: cleanup@mem_pool.h:237] >> Successfully do cleanup, this->name:BufPool.
